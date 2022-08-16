@@ -2,7 +2,7 @@
   "name": "cise_ass1a_worksheet4",
   "version": "1.0.0",
   "description": "SPEED",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
